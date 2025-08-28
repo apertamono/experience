@@ -10,7 +10,7 @@ Like other early cryptocurrency enthusiasts, I got involved with development by 
 
 [On the Monero project's self-hosted GitLab](https://repo.getmonero.org/ProkhorZ): in 2018-2019, I translated user guides to Dutch for the [Monero website](https://web.getmonero.org/). I also discussed issues and corrected a few errors.
 
-For the Kovri project, which was meant to integrate I2P network privacy with Monero, [on GitLab](https://gitlab.com/ProkhorZ): in 2018-2019, I translated documentation and the Kovri website to Dutch. The translation was merged, but the Kovri project was cancelled after releasing an alpha version.
+[On GitLab](https://gitlab.com/ProkhorZ), for the Kovri project, which was meant to integrate I2P network privacy with Monero: in 2018-2019, I translated documentation and the Kovri website to Dutch. The translation was merged, but the Kovri project was cancelled after releasing an alpha version.
 
 In 2021, I completed the [CryptoZombies](https://cryptozombies.io/en/course/) courses for beginners. This means I could program smart contracts on Ethereum and compatible blockchains in the Solidity language. But I doubt whether I'm qualified to program irreversible financial applications in a responsible way, given the frequent bugs and exploits in this area.
 
