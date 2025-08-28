@@ -4,9 +4,13 @@ Since several repositories were moving to other services and not all of my work 
 
 ## Crypto
 
+Like other early cryptocurrency enthusiasts, I got involved with development by mining, reading the code due to a lack of documentation, and finding a bug. But I might be the only one whose journey started with Gaycoin.
+
+![](https://blockchain-translator.com/images/gaycoin-rewards-email.png)
+
 [On the Monero project's self-hosted GitLab](https://repo.getmonero.org/ProkhorZ): in 2018-2019, I translated user guides to Dutch for the [Monero website](https://web.getmonero.org/). I also discussed issues and corrected a few errors.
 
-For the Kovri project [on GitLab](https://gitlab.com/ProkhorZ): in 2018-2019, I translated documentation and the Kovri website to Dutch. The translation has been merged, but it's not been published on the website, since the Kovri project was more or less cancelled after releasing an alpha version. I also corrected a few errors.
+For the Kovri project, which was meant to integrate I2P network privacy with Monero, [on GitLab](https://gitlab.com/ProkhorZ): in 2018-2019, I translated documentation and the Kovri website to Dutch. The translation has been merged, but it's not been published on the website, since the Kovri project was more or less cancelled after releasing an alpha version. I also corrected a few errors.
 
 In 2021, I completed the [CryptoZombies](https://cryptozombies.io/en/course/) Solidity courses for beginners. This means I can start programming smart contracts on Ethereum and compatible blockchains.
 
@@ -20,7 +24,7 @@ In the past, I used PHP to personalize my Pivot blog, adding multiple blog chann
 
 ## Boring stuff
 
-As in Al Sweigart's [Automate the boring stuff with Python](https://automatetheboringstuff.com/), which was a lot of fun, actually. With the help of chapter 13 from this book, I used OpenPyXL to edit Excel files for my day job in translation, in 2020. I can't share the code here, because the data and data formats are confidential. I wrote a script to convert reports in workbooks with multiple worksheets into one row each in a database-style spreadsheet - even adjusting the column width to the length of data fields. Separately, I wrote three scripts to organize data in spreadsheets: adding comments to duplicate entries, copying data for entries that matched entries in another file, and adding comments to entries found across multiple categories. This saved us hours of manual work, while producing more reliable results.
+As in Al Sweigart's [Automate the boring stuff with Python](https://automatetheboringstuff.com/), which was a lot of fun, actually. With the help of chapter 13 from this book, I used OpenPyXL to edit Excel files for my day job in translation, in 2020. I can't share the code here, because the data and data formats are confidential. I wrote a script to convert reports from workbooks with multiple worksheets into one row each in a database-style spreadsheet, adjusting the column width to the length of data fields. Separately, I wrote three scripts to organize data in spreadsheets: adding comments to duplicate entries, copying data for entries that matched entries in another file, and adding comments to entries found across multiple categories. This saved us hours of manual work, while producing more reliable results.
 
 From August 1998 to March 2002, my day job was data processing in market research. My job title was application programmer. I prepared surveys for computer-assisted interviews and processed the data afterwards. I used the company's own proprietary script languages: one for marking up the survey text, one for displaying results and analyses, and one very concise Turing-complete script for correcting data.
 
