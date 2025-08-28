@@ -4,15 +4,15 @@ Since several repositories were moving to other services and not all of my work 
 
 ## Crypto
 
-Like other early cryptocurrency enthusiasts, I got involved with development by mining, reading the code due to a lack of documentation, and finding a bug. But I might be the only one whose journey started with Gaycoin.
+Like other early cryptocurrency enthusiasts, I got involved with development by mining, reading the code due to a lack of documentation, and finding a bug. But I might be the only one whose journey started with Gaycoin, which aimed to become the LGBT community's currency. Since I didn't have a Github account yet, I simply sent the developer an email. He confirmed my analysis and asked if I could do more, but I wasn't ready for that, while the coin wasn't getting any traction anyway.
 
 ![](https://blockchain-translator.com/images/gaycoin-rewards-email.png)
 
 [On the Monero project's self-hosted GitLab](https://repo.getmonero.org/ProkhorZ): in 2018-2019, I translated user guides to Dutch for the [Monero website](https://web.getmonero.org/). I also discussed issues and corrected a few errors.
 
-For the Kovri project, which was meant to integrate I2P network privacy with Monero, [on GitLab](https://gitlab.com/ProkhorZ): in 2018-2019, I translated documentation and the Kovri website to Dutch. The translation has been merged, but it's not been published on the website, since the Kovri project was more or less cancelled after releasing an alpha version. I also corrected a few errors.
+For the Kovri project, which was meant to integrate I2P network privacy with Monero, [on GitLab](https://gitlab.com/ProkhorZ): in 2018-2019, I translated documentation and the Kovri website to Dutch. The translation was merged, but the Kovri project was cancelled after releasing an alpha version.
 
-In 2021, I completed the [CryptoZombies](https://cryptozombies.io/en/course/) Solidity courses for beginners. This means I can start programming smart contracts on Ethereum and compatible blockchains.
+In 2021, I completed the [CryptoZombies](https://cryptozombies.io/en/course/) courses for beginners. This means I could program smart contracts on Ethereum and compatible blockchains in the Solidity language. But I doubt whether I'm qualified to program irreversible financial applications in a responsible way, given the frequent bugs and exploits in this area.
 
 ![](https://i.imgur.com/92qL8rY.png)
 
